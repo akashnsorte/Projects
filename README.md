@@ -7,3 +7,4 @@ Some of the basic projects i have worked on :)
 4) QR code generator
 5) Rock Paper Scissors ussing Python (in terminal)
 6) Face recognition (Using Open CV tesseract)
+7) Hand and Face recognition
