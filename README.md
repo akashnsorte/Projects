@@ -8,3 +8,4 @@ Some of the basic projects i have worked on :)
 5) Rock Paper Scissors ussing Python (in terminal)
 6) Face recognition (Using Open CV tesseract)
 7) Hand and Face recognition
+8) Tic Tac Toe 
